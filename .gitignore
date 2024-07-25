@@ -5,6 +5,8 @@ node_modules
 .pnp
 .pnp.js
 
+#postgres
+/data
 # Local env files
 .env
 .env.local
@@ -36,3 +38,6 @@ yarn-error.log*
 # Misc
 .DS_Store
 *.pem
+
+# md
+permision.md
